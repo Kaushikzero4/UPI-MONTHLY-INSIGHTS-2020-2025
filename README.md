@@ -16,14 +16,14 @@ This project contains a Power BI dashboard analyzing monthly UPI (Unified Paymen
 
 ## Files
 
-- `dashboard/upi_dashboard.png` – Dashboard image  
-- `data/upi_monthly_data_2020_2025.csv` – Monthly UPI data  
+- `dashboard/2386.png` – Dashboard image  
+- `data/Monthly UPI 2020-25` – Monthly UPI data  
 - `README.md` – Project overview
 
 ## Tools Used
 
 - Power BI  
-- Excel / CSV
+- Excel 
 
 ## Author
 
