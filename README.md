@@ -5,7 +5,9 @@ This project contains a Power BI dashboard analyzing monthly UPI (Unified Paymen
 
 ## Dashboard Preview
 
-![UPI Dashboard](./Screenshot 2025-07-28 202137.png)
+![UPI Dashboard]
+
+<img width="1434" height="793" alt="Screenshot 2025-07-28 202137" src="https://github.com/user-attachments/assets/f975dca6-a0e5-4b5f-b013-83c6dc8e33e2" />
 
 
 ## Key Highlights
